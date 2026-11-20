@@ -1,0 +1,8 @@
+# Arquivos temporários
+*.tmp
+
+# Logs de execução
+logs/*.log
+
+# Arquivo de ambiente e credenciais
+backend/.env
